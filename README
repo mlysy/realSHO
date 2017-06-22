@@ -1,27 +1,11 @@
-**********************************************************************
-This file is part of realSHO. (r)obust and (e)fficient c(al)ibration of (SHO) parameters
+**R**obust and **E**fficient c**AL**ibration of **SHO** parameters
 
-realSHO is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+*Bryan Yates, Aleksander Labuda, Martin Lysy*
 
-realSHO is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with realSHO.  If not, see <http://www.gnu.org/licenses/>.
-**********************************************************************
-
-Created on MATLAB Version: MATLAB 2016a
-Package Contents:
-
-Data:
+`./data`:
 Q_100_PSD_noise.mat - Simulated PSD with added sine-noise
 
-Function:
+`./functions`:
 Folder including all relevant functions
 
 Tutorials:
