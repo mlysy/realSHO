@@ -7,7 +7,7 @@
 
 ---
 
-Package contents:
+Contents:
 
 - `./data`: `Q_100_PSD_noise.mat` - Simulated PSD with added sine-noise
 - `./functions`: Folder including all relevant functions
@@ -20,7 +20,7 @@ Download all package contents and run tutorials.
 
 Tutorials:
 
-- Basic: PSD generation from time domain & SHO+White Noise (SHOW) fitting
-- Advanced: SHOW Fitting + noise removal techniques
-- CI: Confidence interval calculations
+- `tutorial_basic.m`: PSD generation from time domain & SHO+White Noise (SHOW) fitting
+- `tutorial_advanced.m`: SHOW Fitting + noise removal techniques
+- `tutorial_CI.m`: Confidence interval calculations
 
