@@ -19,7 +19,7 @@ Provides optimization routines to calibrate the parameters of a simple harmonic 
 
 *Usage:*
 
-Download all package contents and run tutorials.
+Download all package contents to a common folder and run the examples.
 
 
 *Examples:*
