@@ -1,7 +1,7 @@
 **(R)obust and (E)fficient c(AL)ibration of (SHO) parameters**
 
 
-*Bryan Yates, Aleksander Labuda, Martin Lysy*
+*Bryan Yates, Martin Lysy, Aleksander Labuda*
 
 *June 22, 2017*
 
