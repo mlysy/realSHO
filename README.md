@@ -1,4 +1,4 @@
-**(R)obust and (E)fficient c(AL)ibration of (SHO) parameters**
+**realSHO: (R)obust and (E)fficient c(AL)ibration of (SHO) parameters**
 
 
 *Bryan Yates, Martin Lysy, Aleksander Labuda*
